@@ -6,5 +6,5 @@ interface Props {
 }
 
 export const ExampleComponent = ({ text }: Props) => {
-  return <div className={styles.test}>example Component: {text}</div>
+  return <div className={styles.test}>example component: {text}</div>
 }
