@@ -32,6 +32,7 @@
     "new-version": "lerna version --conventional-commits --yes",
     "diff": "lerna diff",
     "changed": "lerna changed",
-    "lerna-ls": "lerna ls"
+    "lerna-ls": "lerna ls",
+    "publish:all": "lerna publish --conventional-commits --yes "
   }
 }
